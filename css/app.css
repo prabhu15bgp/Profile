@@ -55,7 +55,8 @@ img#pic2{
 }
 .sets{
 	width:100%;
-	height:400px;
+	height:auto;
+	max-height:400px;
 	background-color:;
 	margin-top:10px;
 	border:6px solid white;
@@ -70,7 +71,9 @@ img#pic2{
 }
 .sets-img{
 	width:100%;
-	height:300px;
+	height: auto;
+	min-height:290px;
+	max-height:300px;
 	border-bottom:4px solid white;
 	cursor:pointer;
 }
