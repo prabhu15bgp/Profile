@@ -127,28 +127,3 @@ img#pic2{
 	padding:20px;
 	cursor:pointer;
 }
-.bttn{
-	position:fixed;
-	display:block;
-	width:60px;
-	height:60px;
-	border-radius:50%;
-	bottom:25px;
-	right:20px;
-	background-color:white;
-	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
-	cursor:pointer;
-}
-@media screen and (max-width: 480px) {
-	.bttn{
-		visibility:hidden;
-	}
-}
-@media screen and (max-width: 320px) {
-	.sets-btn{
-		visibility:hidden;
-	}
-	.sets-btn-img{
-		visibility:hidden;
-	}
-}
