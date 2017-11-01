@@ -1,5 +1,5 @@
 body{
-	background-color:#E0E0E0;
+	background-color:#e5e5e5;
 }
 .left{
 	float:left;
@@ -9,14 +9,13 @@ body{
 	margin-right:30px;
 	margin-top:10px;
 }
-/*height:230px;*/
 .top{
 	width:100%;	
 	background-color:white;
 	color:#9900FE;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
 	padding:10px;
-	border-bottom:10px solid #9900FE;
+	border-bottom:10px solid #9900fe;
 	cursor:pointer;
 }
 img#pic{
@@ -24,21 +23,18 @@ img#pic{
 	height:auto;
 	cursor:pointer;
 }
-/*height:400px;*/
 .mid{
 	background-color:white;
 	width:100%;	
 	padding:20px;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
 }
-/*height:1000px;*/
 .mid2{
 	background-color:white;
 	width:100%;	
 	padding:20px;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
 }
-/*	*/
 img#pic2{
 	width:100%;
 	height:auto;
@@ -49,8 +45,6 @@ img#pic2{
 	height:40px;
 	cursor:pointer;
 }
-/*height:auto;
-	max-height:400px;*/
 .sets{
 	width:100%;
 	margin-top:10px;
@@ -60,15 +54,10 @@ img#pic2{
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.4);
 }
 .sets:hover{
-	background-color:#9900FE;
+	background-color:#9900fe;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
 	position:relative;
 }
-/*
-	height: auto;
-	
-	
-*/
 .sets-img{
 	width:100%;
 	height:auto;
@@ -99,15 +88,12 @@ img#pic2{
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.4);
 	cursor:pointer;
 }
-/*
-	height:100px;
-*/
 .sets-content{
 	text-align:center;
 	margin-top:-10px;
 	padding-top:10px;
 	width:100%;
-	background-color:#9900FE;
+	background-color:#9900fe;
 	color:white;
 	z-index:4;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.1);
@@ -120,7 +106,7 @@ img#pic2{
 .end{
 	width:100%;
 	height:100px;
-	background-color:#9900FE;
+	background-color:#9900fe;
 	box-shadow: 0px 1px 10px 1px rgba(0,0,0,0.2);
 	text-align:center;
 	color:white;
